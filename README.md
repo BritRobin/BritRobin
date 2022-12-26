@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BritRobin
 - 👀 I’m interested in C++ and SNP analysis
-- 🌱 I’m currently learning all that has changeds since VS 2003!
+- 🌱 I’m currently learning all that has changes since VS 2003!
 
 
 <!---
